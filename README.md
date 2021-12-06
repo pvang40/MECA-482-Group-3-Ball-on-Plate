@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## MECA 482 Ball on Plate 
+## Group 3 
+
+Table of Contents 
+1. Introduction 
+2. Logical/Functional Viewpoint 
+3. Physical Viewpoint 
+4. 
+5. Mathematical Model of the System 
+6. 
 
 You can use the [editor on GitHub](https://github.com/pvang40/MECA-482-Group-3-Ball-on-Plate/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
