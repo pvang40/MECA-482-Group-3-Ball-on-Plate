@@ -2,15 +2,15 @@
 ## Group 3 
 
 Table of Contents 
-1. Introduction
-2. Capabilities Database 
-3. Operational Viewpoint 
-4. Logical/Functional Viewpoint 
-5. Mathematical Model of the System 
+  1. Introduction
+  2. Capabilities Database 
+  3. Operational Viewpoint 
+  4. Logical/Functional Viewpoint 
+  5. Mathematical Model of the System 
 
 
 ## 1. Introduction 
-The goal of this project is to 
+Control system theories are applied to many applications to help improve productivity and enhance today’s technology. This report will display the importance and necessary components of control system design through mathematical and simulation modeling. The goal of the project is to develop a comprehensive solution to control a ball’s position on a self-stabilizing flat plate. The ball on plate system consists of a plate that will be tilted using two servo motors to control the plate across the x and y directions as well as a camera to act as a sensor. The models provided in this report will not include the sensor. All models and controls are based off of the operational viewpoint.
 
 ## 2. Capabilities Database
 The design is simple but effective.
