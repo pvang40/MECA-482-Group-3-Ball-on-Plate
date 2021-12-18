@@ -12,6 +12,7 @@ Pachia Vang
  3. Operational Viewpoint 
  4. Logical/Functional Viewpoint 
  5. Mathematical Model of the System 
+ 6. Stimulation 
 
 
 ## 1. Introduction 
@@ -31,3 +32,11 @@ The servos will be attached to the base and slightly under the plate to keep the
 ![Logical_Functional Viewpoint](https://user-images.githubusercontent.com/35712413/144789135-3cbc3698-73db-405e-968a-6798f5b5117d.jpg)
 
 ## 5. Mathematical Model of the System 
+The free body diagram of our system is the following: 
+![Free Body Diagram](https://user-images.githubusercontent.com/35712413/146634759-ef89ca2f-2c76-4e8e-9ba9-480f7d11f069.jpg)
+
+The transfer function found was: 
+![transfer function](https://user-images.githubusercontent.com/35712413/146634880-bc643f6d-3fa2-48f9-b059-da4296a98603.JPG)
+
+## 6. Stimulation 
+https://user-images.githubusercontent.com/35712413/146634830-26b70465-e08f-4bf4-b893-987f445512d8.mp4
