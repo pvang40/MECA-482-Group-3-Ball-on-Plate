@@ -47,12 +47,14 @@ After the anaylsis which can be found in our report, the transfer function was f
 
 ## 6. Design 
 - Simulink/MatLab: 
+
 The approach taken to create the Simulink model was utilizing the PID controller block. Following the method used in the provided PID videos, the Control System Designer application within Simulink includes a root locus editor that allows the user to manually move the poles and zeros to obtain the desired PID gains.  Using the root locus editor and a step response graph, it was possible to obtain a critically damped situation. The tool utilized can be found in Appendix C of the report. Below displays the Simulink deisgn and the step reponse of th root locus editor. 
 
 ![PID](https://user-images.githubusercontent.com/35712413/146652809-41757709-f5c9-40b0-a0fc-0da82e579db1.JPG)
 ![step response](https://user-images.githubusercontent.com/35712413/146652804-41bb9f63-abd6-427c-9190-2a672497eee7.JPG)
 
 - Coppelia 
+
 The CoppeliaSim model consists of basic geometries such as rectangular prisms, cuboids,and cylinders. The purple cylinders are intended to simulate a motor that controls the yellow rectangular prisms that act as beams connected to the plate. In order to allow for movement a series of joints was utilized. The black center rod has a prismatic joint and a spherical joint towards the top to allow for translation . The motors have rectangular prisms attached to them that serve as arms that then connect to the yellow beams that hold the plate. The motor implementation was done by adding two joints. The first, is a revolute joint that is placed in the center of the motor. The next one, is another revolute joint that connects the motor arm to the beam. A camera vision code was then implemented and allows the camera to sense the position of the ball and send input signals to the motors to adjust their rotation until equilibrium is met. The figure below depicts the model in CoppeliaSim, of the ball and plate system while Appendix B-1 contains code for the CoppeliaSim model. 
 
 ![Coppelia](https://user-images.githubusercontent.com/35712413/146652838-aa945454-eb0e-4fcd-badc-0e99533b83e7.JPG)
