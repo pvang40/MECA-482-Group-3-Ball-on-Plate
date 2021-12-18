@@ -40,5 +40,5 @@ The transfer function found was:
 
 ## 6. Stimulation 
 
-https://user-images.githubusercontent.com/35712413/146652439-b4d1e28d-f120-4507-8834-0f39751dbccc.mp4
+http://user-images.githubusercontent.com/35712413/146652439-b4d1e28d-f120-4507-8834-0f39751dbccc.mp4
 
