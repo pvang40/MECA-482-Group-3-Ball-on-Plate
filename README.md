@@ -39,6 +39,10 @@ The transfer function found was:
 ![transfer function](https://user-images.githubusercontent.com/35712413/146634880-bc643f6d-3fa2-48f9-b059-da4296a98603.JPG)
 
 ## 6. Stimulation 
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="
 
-http://user-images.githubusercontent.com/35712413/146652439-b4d1e28d-f120-4507-8834-0f39751dbccc.mp4
+https://user-images.githubusercontent.com/35712413/146652530-7af3d1ce-1782-42f3-a6cb-0b768308c52b.mp4
 
+ ">
+</video>
