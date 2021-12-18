@@ -39,6 +39,6 @@ The transfer function found was:
 ![transfer function](https://user-images.githubusercontent.com/35712413/146634880-bc643f6d-3fa2-48f9-b059-da4296a98603.JPG)
 
 ## 6. Stimulation 
-https://user-images.githubusercontent.com/35712413/146652530-7af3d1ce-1782-42f3-a6cb-0b768308c52b.mp4
+https://user-images.githubusercontent.com/35712413/146652530-7af3d1ce-1782-42f3-a6cb-0b768308c52b.mp4/index.html
 
 
