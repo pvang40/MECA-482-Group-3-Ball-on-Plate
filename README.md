@@ -12,7 +12,8 @@ Pachia Vang
  3. Operational Viewpoint 
  4. Logical/Functional Viewpoint 
  5. Mathematical Model of the System 
- 6. Stimulation 
+ 6. Design
+ 7. Stimulation 
 
 
 ## 1. Introduction 
@@ -44,7 +45,7 @@ The ball and plate are in contact with each other at all times
 After the anaylsis which can be found in our report, the transfer function was found to be:  
 ![transfer function](https://user-images.githubusercontent.com/35712413/146634880-bc643f6d-3fa2-48f9-b059-da4296a98603.JPG)
 
-## 6. Controller Design 
+## 6. Design 
 - Simulink/MatLab: 
 The approach taken to create the Simulink model was utilizing the PID controller block. Following the method used in the provided PID videos, the Control System Designer application within Simulink includes a root locus editor that allows the user to manually move the poles and zeros to obtain the desired PID gains.  Using the root locus editor and a step response graph, it was possible to obtain a critically damped situation. The tool utilized can be found in Appendix C of the report. Below displays the Simulink deisgn and the step reponse of th root locus editor. 
 
